@@ -1,0 +1,6 @@
+{
+  "apiEndpoint": "https://dnews.prismic.io/api/v2",
+  "libraries": [
+    "@/slices"
+  ]
+}
