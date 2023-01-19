@@ -1,4 +1,4 @@
-import { Header } from "../components/header";
+import { Header } from "../components/Header";
 import { AppProps } from "../../node_modules/next/app"
 import { SessionProvider } from "next-auth/react"
 

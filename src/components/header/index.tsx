@@ -1,7 +1,7 @@
 import styles from './styles.module.scss';
 import Image from 'next/image' ;
-import { SignInButton } from '../signInButton';
-import { ActiveLink } from '../activeLink';
+import { SignInButton } from '../SignInButton';
+import { ActiveLink } from '../ActiveLink';
 
 
 export function Header() {
